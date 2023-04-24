@@ -63,7 +63,6 @@ def make_graph(comparison_variable='density', comparson_unit='people/km<sup>2</s
         },
         legend=dict(title='Legend Title'),
         showlegend=True,
-        # xaxis=dict(title='Categories', domain=[0.1, 0.9]),
     )
 
     fig.show()
